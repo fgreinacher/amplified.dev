@@ -1,6 +1,7 @@
 ---
 layout: supporters
 ---
+
 -   [Ty Dunn](https://github.com/tydunn)
 -   [Nate Sesti](https://github.com/sestinj)
 -   [Jesse Robbins](https://github.com/jesserobbins)
@@ -87,4 +88,5 @@ layout: supporters
 -   [Jonatan Samuel](https://github.com/iconjone)
 -   [Marshall Hahn](https://github.com/marshallhahn)
 -   [Aditya Mitra](https://github.com/uinstinct)
+-   [Rajat Tripathi](https://github.com/triprjt)
 -   [David Anderson](https://github.com/kataqatsi)
