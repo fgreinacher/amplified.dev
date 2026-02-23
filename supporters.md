@@ -89,3 +89,4 @@ layout: supporters
 -   [Marshall Hahn](https://github.com/marshallhahn)
 -   [Aditya Mitra](https://github.com/uinstinct)
 -   [Rajat Tripathi](https://github.com/triprjt)
+-   [David Anderson](https://github.com/kataqatsi)
